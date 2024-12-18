@@ -36,8 +36,7 @@
   },
   "@openmrs/esm-styleguide": {
     "Brand color #1": "#006233",
-    "Brand color #2": "#FFD700",
-    "Brand color #3": "#D71F28"
+    "Brand color #2": "#D71F28"
   },
   "@openmrs/esm-login-app": {
     "logo": {
@@ -46,7 +45,7 @@
     }
   },
   "@openmrs/esm-primary-navigation-app": {
-    "src": "${openmrsSpaBase}/logo.png",
-    "alt": "Logo"
+      "src": "${openmrsSpaBase}/bsi-logo.png",
+      "alt": "Logo"
   }
 }
