@@ -40,19 +40,19 @@
   },
   "@openmrs/esm-login-app": {
     "logo": {
-      "src": "${openmrsSpaBase}/logo.png",
+      "src": "/openmrs/spa/logo.png",
       "alt": "Logo"
     },
     "additionalLogos": [
       {
-        "src": "${openmrsSpaBase}/bsilogo.png",
+        "src": "/openmrs/spa/bsilogo.png",
         "alt": "BSI"
       }
     ]
   },
   "@openmrs/esm-primary-navigation-app": {
     "logo": {
-      "src": "${openmrsSpaBase}/navlogo.png",
+      "src": "/openmrs/spa/navlogo.png",
       "alt": "Logo"
     }
   }
