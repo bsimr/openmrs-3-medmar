@@ -40,6 +40,7 @@ COPY config-core_demo.json /usr/share/nginx/html
 
 # Add logo and favicon to the HTML root
 COPY ./resources/logo.png /usr/share/nginx/html
+COPY ./resources/navlogo.png /usr/share/nginx/html
 COPY ./resources/bsilogo.png /usr/share/nginx/html
 COPY ./resources/favicon.ico /usr/share/nginx/html
 

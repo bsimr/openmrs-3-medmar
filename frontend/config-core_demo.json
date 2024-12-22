@@ -42,11 +42,17 @@
     "logo": {
       "src": "${openmrsSpaBase}/logo.png",
       "alt": "Logo"
-    }
+    },
+    "additionalLogos": [
+      {
+        "src": "${openmrsSpaBase}/bsilogo.png",
+        "alt": "BSI"
+      }
+    ]
   },
   "@openmrs/esm-primary-navigation-app": {
     "logo": {
-      "src": "${openmrsSpaBase}/bsilogo.png",
+      "src": "${openmrsSpaBase}/navlogo.png",
       "alt": "Logo"
     }
   }
