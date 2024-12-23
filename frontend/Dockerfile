@@ -36,7 +36,7 @@
     COPY nginx.conf /etc/nginx/nginx.conf
     
     COPY --from=dev /app/spa /usr/share/nginx/html
-    COPY config-core.json /usr/share/nginx/html
+    COPY config-core_demo.json /usr/share/nginx/html
     
     # Add logo and favicon to the HTML root
     COPY ./resources/logo.png /usr/share/nginx/html
